@@ -68,7 +68,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config-2.32.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2021-06-08 21:20+0100\n"
+"POT-Creation-Date: 2021-05-20 23:57+0100\n"
 "PO-Revision-Date: 2021-05-22 10:28+0200\n"
 "Last-Translator: Alexander Shopov <ash@kambanaria.org>\n"
 "Language-Team: Bulgarian <dict@ludost.net>\n"
@@ -201,8 +201,7 @@ msgstr "BTC 9019U"
 
 #: rules/base.xml:218
 msgid "BTC 9116U Mini Wireless Internet and Gaming"
-msgstr ""
-"BTC 9116U Mini Wireless Internet and Gaming — безжична, за Интернет и игри"
+msgstr "BTC 9116U Mini Wireless Internet and Gaming — безжична, за Интернет и игри"
 
 #: rules/base.xml:224
 msgid "Cherry Blue Line CyBo@rd"
@@ -838,7 +837,7 @@ msgstr "Chromebook"
 #: rules/base.xml:1339 rules/base.xml:1759 rules/base.xml:2294
 #: rules/base.xml:2775 rules/base.xml:3435 rules/base.xml:5610
 #: rules/base.xml:5863 rules/base.xml:5906 rules/base.xml:6051
-#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1236
+#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1218
 msgid "en"
 msgstr "Анг"
 
@@ -1096,7 +1095,7 @@ msgstr "арменска — източна, алтернативна"
 #. Keyboard indicator for German layouts
 #: rules/base.xml:1734 rules/base.xml:3581 rules/base.xml:5176
 #: rules/base.xml:5194 rules/base.xml:5235 rules/base.extras.xml:95
-#: rules/base.extras.xml:1179
+#: rules/base.extras.xml:1161
 msgid "de"
 msgstr "Нмс"
 
@@ -1197,11 +1196,11 @@ msgid "Bangla (Probhat)"
 msgstr "бенгалска — пробхат"
 
 #. Keyboard indicator for Indian layouts
-#: rules/base.xml:1892 rules/base.extras.xml:1327
+#: rules/base.xml:1892 rules/base.extras.xml:1309
 msgid "in"
 msgstr "Инд"
 
-#: rules/base.xml:1893 rules/base.extras.xml:1328
+#: rules/base.xml:1893 rules/base.extras.xml:1310
 msgid "Indian"
 msgstr "индийска"
 
@@ -1356,7 +1355,7 @@ msgstr "телугу — фонетична по Sarala"
 
 #. Keyboard indicator for Urdu layouts
 #: rules/base.xml:2206 rules/base.xml:2217 rules/base.xml:2228
-#: rules/base.xml:5805 rules/base.extras.xml:1074 rules/base.extras.xml:1354
+#: rules/base.xml:5805
 msgid "ur"
 msgstr "Урд"
 
@@ -1399,7 +1398,7 @@ msgid "Sanskrit (KaGaPa, phonetic)"
 msgstr "санскритска — фонетична по KaGaPa"
 
 #. Keyboard indicator for Marathi layouts
-#: rules/base.xml:2283 rules/base.extras.xml:1334
+#: rules/base.xml:2283 rules/base.extras.xml:1316
 msgid "mr"
 msgstr "Мрт"
 
@@ -1446,7 +1445,7 @@ msgstr "босненска — американска"
 
 #. Keyboard indicator for Portuguese layouts
 #: rules/base.xml:2362 rules/base.xml:4639 rules/base.extras.xml:823
-#: rules/base.extras.xml:1092
+#: rules/base.extras.xml:1074
 msgid "pt"
 msgstr "Прт"
 
@@ -2491,7 +2490,7 @@ msgid "Lao (STEA)"
 msgstr "лаоска — STEA"
 
 #. Keyboard indicator for Spanish layouts
-#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1134
+#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1116
 msgid "es"
 msgstr "Исп"
 
@@ -2765,7 +2764,7 @@ msgstr "руска — полска, фонетична, дворак"
 msgid "Polish (programmer Dvorak)"
 msgstr "полска — дворак за програмисти"
 
-#: rules/base.xml:4640 rules/base.extras.xml:1093
+#: rules/base.xml:4640 rules/base.extras.xml:1075
 msgid "Portuguese"
 msgstr "португалска"
 
@@ -2962,11 +2961,11 @@ msgstr "словенска —  американска"
 
 # словашка
 #. Keyboard indicator for Slovak layouts
-#: rules/base.xml:4993 rules/base.extras.xml:1113
+#: rules/base.xml:4993 rules/base.extras.xml:1095
 msgid "sk"
 msgstr "Слш"
 
-#: rules/base.xml:4994 rules/base.extras.xml:1114
+#: rules/base.xml:4994 rules/base.extras.xml:1096
 msgid "Slovak"
 msgstr "словашка"
 
@@ -2982,7 +2981,7 @@ msgstr "словашка — qwerty"
 msgid "Slovak (QWERTY, extended backslash)"
 msgstr "словашка — qwerty, с „\\“"
 
-#: rules/base.xml:5025 rules/base.extras.xml:1135
+#: rules/base.xml:5025 rules/base.extras.xml:1117
 msgid "Spanish"
 msgstr "испанска"
 
@@ -3023,11 +3022,11 @@ msgid "Spanish (Macintosh)"
 msgstr "испанска — за Macintosh"
 
 #. Keyboard indicator for Swedish layouts
-#: rules/base.xml:5087 rules/base.extras.xml:1149
+#: rules/base.xml:5087 rules/base.extras.xml:1131
 msgid "sv"
 msgstr "Швд"
 
-#: rules/base.xml:5088 rules/base.extras.xml:1150
+#: rules/base.xml:5088 rules/base.extras.xml:1132
 msgid "Swedish"
 msgstr "шведска"
 
@@ -3071,7 +3070,7 @@ msgstr "шведска — американска"
 msgid "Swedish Sign Language"
 msgstr "шведска — жестомимична"
 
-#: rules/base.xml:5177 rules/base.extras.xml:1180
+#: rules/base.xml:5177 rules/base.extras.xml:1162
 msgid "German (Switzerland)"
 msgstr "немска — швейцарска"
 
@@ -3185,11 +3184,11 @@ msgid "Thai (Pattachote)"
 msgstr "тайландска — патачотска"
 
 #. Keyboard indicator for Turkish layouts
-#: rules/base.xml:5392 rules/base.extras.xml:1200
+#: rules/base.xml:5392 rules/base.extras.xml:1182
 msgid "tr"
 msgstr "Трс"
 
-#: rules/base.xml:5393 rules/base.extras.xml:1201
+#: rules/base.xml:5393 rules/base.extras.xml:1183
 msgid "Turkish"
 msgstr "турска"
 
@@ -3243,7 +3242,7 @@ msgstr "отоманска"
 msgid "Ottoman (F)"
 msgstr "отоманска — „F“ горе-вляво"
 
-#: rules/base.xml:5498 rules/base.extras.xml:1213
+#: rules/base.xml:5498 rules/base.extras.xml:1195
 msgid "Old Turkic"
 msgstr "турска — руни"
 
@@ -3265,11 +3264,11 @@ msgid "Saisiyat (Taiwan)"
 msgstr "сайсиятска — тайванска"
 
 #. Keyboard indicator for Ukranian layouts
-#: rules/base.xml:5555 rules/base.extras.xml:1221
+#: rules/base.xml:5555 rules/base.extras.xml:1203
 msgid "uk"
 msgstr "Укр"
 
-#: rules/base.xml:5556 rules/base.extras.xml:1222
+#: rules/base.xml:5556 rules/base.extras.xml:1204
 msgid "Ukrainian"
 msgstr "украинска"
 
@@ -3301,7 +3300,7 @@ msgstr "руска — украинска, републикански станд
 msgid "Ukrainian (homophonic)"
 msgstr "украинска — еднозвучна, алтернативна"
 
-#: rules/base.xml:5611 rules/base.extras.xml:1237
+#: rules/base.xml:5611 rules/base.extras.xml:1219
 msgid "English (UK)"
 msgstr "английска — великобританска"
 
@@ -3319,8 +3318,7 @@ msgstr "английска — великобританска, дворак"
 
 #: rules/base.xml:5638
 msgid "English (UK, Dvorak, with UK punctuation)"
-msgstr ""
-"английска — великобританска, с пунктуация на Обединеното кралство, дворак"
+msgstr "английска — великобританска, с пунктуация на Обединеното кралство, дворак"
 
 #: rules/base.xml:5644
 msgid "English (UK, Macintosh)"
@@ -3351,11 +3349,11 @@ msgid "Uzbek (Latin)"
 msgstr "узбекска — латиница"
 
 #. Keyboard indicator for Vietnamese layouts
-#: rules/base.xml:5701 rules/base.extras.xml:1267
+#: rules/base.xml:5701 rules/base.extras.xml:1249
 msgid "vi"
 msgstr "Втн"
 
-#: rules/base.xml:5702 rules/base.extras.xml:1268
+#: rules/base.xml:5702 rules/base.extras.xml:1250
 msgid "Vietnamese"
 msgstr "виетнамска"
 
@@ -3368,11 +3366,11 @@ msgid "Vietnamese (French)"
 msgstr "виетнамска — френска"
 
 #. Keyboard indicator for Korean layouts
-#: rules/base.xml:5726 rules/base.extras.xml:1251
+#: rules/base.xml:5726 rules/base.extras.xml:1233
 msgid "ko"
 msgstr "Крс"
 
-#: rules/base.xml:5727 rules/base.extras.xml:1252
+#: rules/base.xml:5727 rules/base.extras.xml:1234
 msgid "Korean"
 msgstr "корейска"
 
@@ -3409,7 +3407,7 @@ msgstr "огамска"
 msgid "Ogham (IS434)"
 msgstr "огамска — IS434"
 
-#: rules/base.xml:5806 rules/base.extras.xml:1075
+#: rules/base.xml:5806
 msgid "Urdu (Pakistan)"
 msgstr "урду — пакистанска"
 
@@ -3736,8 +3734,7 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menu (докато е натиснат), Shift+Menu замества Menu"
 
 #: rules/base.xml:6417
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
 msgstr "Caps Lock (докато е натиснат), Alt+Caps Lock замества Caps Lock"
 
 #: rules/base.xml:6423
@@ -3855,8 +3852,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6591
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Левият Ctrl+левият Win към първата подредба, десният Ctrl+Menu към последната"
+msgstr "Левият Ctrl+левият Win към първата подредба, десният Ctrl+Menu към последната"
 
 #: rules/base.xml:6597
 msgid "Left Ctrl+Left Win"
@@ -3870,7 +3866,7 @@ msgstr "Клавиш за избор 2-то ниво"
 msgid "The \"&lt; &gt;\" key"
 msgstr "Клавиш „&lt;&gt;“"
 
-#: rules/base.xml:6619 rules/base.extras.xml:1370
+#: rules/base.xml:6619 rules/base.extras.xml:1342
 msgid "Key to choose the 3rd level"
 msgstr "Клавиш за избор 3-то ниво"
 
@@ -3899,28 +3895,16 @@ msgid "Backslash"
 msgstr "Обратно наклонена черта"
 
 #: rules/base.xml:6708
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Caps Lock избира 3-то ниво и еднократно го заключва заедно с друг клавиш за "
-"3-то ниво"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Caps Lock избира 3-то ниво и еднократно го заключва заедно с друг клавиш за 3-то ниво"
 
 #: rules/base.xml:6714
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"„\\“ избира 3-то ниво и еднократно го заключва заедно с друг клавиш за 3-то "
-"ниво"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "„\\“ избира 3-то ниво и еднократно го заключва заедно с друг клавиш за 3-то ниво"
 
 #: rules/base.xml:6720
-msgid ""
-"The \"&lt; &gt;\" key; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"„&lt;&gt;“ избира 3-то ниво и еднократно го заключва заедно с друг клавиш за "
-"3-то ниво"
+msgid "The \"&lt; &gt;\" key; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "„&lt;&gt;“ избира 3-то ниво и еднократно го заключва заедно с друг клавиш за 3-то ниво"
 
 #: rules/base.xml:6728
 msgid "Ctrl position"
@@ -4012,14 +3996,11 @@ msgstr "Остаряла Wang 724"
 
 #: rules/base.xml:6873
 msgid "Wang 724 keypad with Unicode arrows and math operators"
-msgstr ""
-"Цифрова клавиатура — Wang 724, със стрелки и математически операции от Уникод"
+msgstr "Цифрова клавиатура — Wang 724, със стрелки и математически операции от Уникод"
 
 #: rules/base.xml:6879
 msgid "Wang 724 keypad with Unicode arrows and math operators on default level"
-msgstr ""
-"Цифрова клавиатура Wang 724, със стрелки и математически операции от Уникод "
-"на стандартното ниво"
+msgstr "Цифрова клавиатура Wang 724, със стрелки и математически операции от Уникод на стандартното ниво"
 
 #: rules/base.xml:6885
 msgid "Hexadecimal"
@@ -4074,24 +4055,19 @@ msgstr "Поведение на Caps Lock"
 
 #: rules/base.xml:6966
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock използва вътрешна промяна на регистъра. Shift временно спира Caps "
-"Lock"
+msgstr "Caps Lock използва вътрешна промяна на регистъра. Shift временно спира Caps Lock"
 
 #: rules/base.xml:6972
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock използва вътрешна промяна на регистъра. Shift не влияе на Caps Lock"
+msgstr "Caps Lock използва вътрешна промяна на регистъра. Shift не влияе на Caps Lock"
 
 #: rules/base.xml:6978
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock работи като Shift със заключване. Shift временно спира Caps Lock"
+msgstr "Caps Lock работи като Shift със заключване. Shift временно спира Caps Lock"
 
 #: rules/base.xml:6984
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock работи като Shift със заключване. Shift не влияе на Caps Lock"
+msgstr "Caps Lock работи като Shift със заключване. Shift не влияе на Caps Lock"
 
 #: rules/base.xml:6990
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
@@ -4110,9 +4086,7 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Caps Lock е допълнителен Esc"
 
 #: rules/base.xml:7014
-msgid ""
-"Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps "
-"Lock"
+msgid "Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps Lock"
 msgstr "Caps Lock е допълнителен Esc, Shift+Caps Lock замества Caps Lock"
 
 #: rules/base.xml:7020
@@ -4256,11 +4230,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Цифровата клавиатура генерира само цифри (като в Mac OS)"
 
 #: rules/base.xml:7286
-msgid ""
-"Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
-msgstr ""
-"Включен NumLock — цифри, Shift преминава към стрелки. Изключен Numlock — "
-"само стрелки (като в Windows)"
+msgid "Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
+msgstr "Включен NumLock — цифри, Shift преминава към стрелки. Изключен Numlock — само стрелки (като в Windows)"
 
 #: rules/base.xml:7292
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4268,13 +4239,11 @@ msgstr "Shift не отменя Caps Lock, а избира 3-то ниво"
 
 #: rules/base.xml:7298
 msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
-msgstr ""
-"Специалните комбинации (Ctrl+Alt+&lt;клавиш&gt;) се обработват от сървъра"
+msgstr "Специалните комбинации (Ctrl+Alt+&lt;клавиш&gt;) се обработват от сървъра"
 
 #: rules/base.xml:7304
 msgid "Apple Aluminium emulates Pause, PrtSc, Scroll Lock"
-msgstr ""
-"Apple Aluminium — симулиране на клавиши за PC (Pause, PrtSc, Scroll Lock)"
+msgstr "Apple Aluminium — симулиране на клавиши за PC (Pause, PrtSc, Scroll Lock)"
 
 #: rules/base.xml:7310
 msgid "Shift cancels Caps Lock"
@@ -4294,8 +4263,7 @@ msgstr "Двата Shift-а заедно включват Caps Lock"
 
 #: rules/base.xml:7334
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Двата Shift-а заедно включват Caps Lock, самостоятелен Shift го изключва"
+msgstr "Двата Shift-а заедно включват Caps Lock, самостоятелен Shift го изключва"
 
 #: rules/base.xml:7340
 msgid "Both Shift together enable Shift Lock"
@@ -4307,9 +4275,7 @@ msgstr "Shift+Num Lock превключват клавишите за придв
 
 #: rules/base.xml:7352
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Позволяване на клавиатурно прекъсване на прихващането на устройствата "
-"(внимание: намалява сигурността)"
+msgstr "Позволяване на клавиатурно прекъсване на прихващането на устройствата (внимание: намалява сигурността)"
 
 #: rules/base.xml:7358
 msgid "Allow grab and window tree logging"
@@ -4356,32 +4322,20 @@ msgid "Menu chooses 5th level"
 msgstr "Menu избира 5-то ниво"
 
 #: rules/base.xml:7425
-msgid ""
-"The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if "
-"pressed with another 5th level chooser"
-msgstr ""
-"„&lt;&gt;“ избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
+msgid "The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "„&lt;&gt;“ избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
 
 #: rules/base.xml:7431
-msgid ""
-"Right Alt chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Десният Alt избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
+msgid "Right Alt chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Десният Alt избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
 
 #: rules/base.xml:7437
-msgid ""
-"Left Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Левият Win избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
+msgid "Left Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Левият Win избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
 
 #: rules/base.xml:7443
-msgid ""
-"Right Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Десният Win избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
+msgid "Right Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Десният Win избира 5-то ниво и го заключва заедно с друг клавиш за 5-о ниво"
 
 #: rules/base.xml:7489
 msgid "Non-breaking space input"
@@ -4404,87 +4358,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Интервал без разделяне на 3-то ниво и нищо на 4-то ниво"
 
 #: rules/base.xml:7518
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Интервал без разделяне на 3-то ниво и тесен интервал без разделяне на 4-то "
-"ниво"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Интервал без разделяне на 3-то ниво и тесен интервал без разделяне на 4-то ниво"
 
 #: rules/base.xml:7524
 msgid "Non-breaking space at the 4th level"
 msgstr "Интервал без разделяне на 4-то ниво"
 
 #: rules/base.xml:7530
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Интервал без разделяне на 4-то ниво и тесен интервал без разделяне на 6-о "
-"ниво"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Интервал без разделяне на 4-то ниво и тесен интервал без разделяне на 6-о ниво"
 
 #: rules/base.xml:7536
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Интервал без разделяне на 4-то ниво и тесен интервал без разделяне на 6-о "
-"ниво (с Ctrl+Shift)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Интервал без разделяне на 4-то ниво и тесен интервал без разделяне на 6-о ниво (с Ctrl+Shift)"
 
 #: rules/base.xml:7542
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Разделител с нулева широчина на 2-ро ниво"
 
 #: rules/base.xml:7548
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво и съединител с нулева широчина на "
-"3-то ниво"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Разделител с нулева широчина на 2-ро ниво и съединител с нулева широчина на 3-то ниво"
 
 #: rules/base.xml:7554
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво, съединител с нулева широчина на 3-"
-"то ниво и интервал без разделяне на 4-то ниво"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Разделител с нулева широчина на 2-ро ниво, съединител с нулева широчина на 3-то ниво и интервал без разделяне на 4-то ниво"
 
 #: rules/base.xml:7560
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво и интервал без разделяне на 3-то "
-"ниво"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Разделител с нулева широчина на 2-ро ниво и интервал без разделяне на 3-то ниво"
 
 #: rules/base.xml:7566
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то "
-"ниво и нищо на 4-то ниво"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то ниво и нищо на 4-то ниво"
 
 #: rules/base.xml:7572
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то "
-"ниво и съединител с нулева широчина на 4-то ниво"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то ниво и съединител с нулева широчина на 4-то ниво"
 
 #: rules/base.xml:7578
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то "
-"ниво и тесен интервал без разделяне на 4-то ниво"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Разделител с нулева широчина на 2-ро ниво, интервал без разделяне на 3-то ниво и тесен интервал без разделяне на 4-то ниво"
 
 #: rules/base.xml:7584
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Разделител с нулева широчина на 3-то ниво и съединител с нулева широчина на "
-"4-то ниво"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Разделител с нулева широчина на 3-то ниво и съединител с нулева широчина на 4-то ниво"
 
 #: rules/base.xml:7591
 msgid "Japanese keyboard options"
@@ -4756,13 +4675,11 @@ msgstr "латвийска — с „'“, мъртви кавички"
 
 #: rules/base.extras.xml:362
 msgid "English (US, intl., AltGr Unicode combining)"
-msgstr ""
-"английска — американска, многоезична, с комбинации по Уникод чрез AltGr"
+msgstr "английска — американска, многоезична, с комбинации по Уникод чрез AltGr"
 
 #: rules/base.extras.xml:368
 msgid "English (US, intl., AltGr Unicode combining, alt.)"
-msgstr ""
-"английска — американска, многоезична, с комбинации по Уникод чрез AltGr"
+msgstr "английска — американска, многоезична, с комбинации по Уникод чрез AltGr"
 
 #: rules/base.extras.xml:374
 msgid "Atsina"
@@ -4778,8 +4695,7 @@ msgstr "чешка словашка и немска — американска"
 
 #: rules/base.extras.xml:402
 msgid "Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US)"
-msgstr ""
-"чешка, словашка, полска, испанска, финска, шведска и немска — американска"
+msgstr "чешка, словашка, полска, испанска, финска, шведска и немска — американска"
 
 #: rules/base.extras.xml:418
 msgid "English (Drix)"
@@ -4815,14 +4731,11 @@ msgstr "английска — Карпал Екс, всички оптимиз�
 
 #: rules/base.extras.xml:472
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"английска — Карпал Екс, всички оптимизации, многоезична, с мъртви клавиши"
+msgstr "английска — Карпал Екс, всички оптимизации, многоезична, с мъртви клавиши"
 
 #: rules/base.extras.xml:478
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"английска — Карпал Екс, всички оптимизации, многоезична, с мъртви клавиши "
-"чрез AltGr"
+msgstr "английска — Карпал Екс, всички оптимизации, многоезична, с мъртви клавиши чрез AltGr"
 
 #: rules/base.extras.xml:484
 msgid "English (3l)"
@@ -5033,117 +4946,107 @@ msgid "Norwegian (Sun Type 6/7)"
 msgstr "норвежка — на Sun, вид 6/7"
 
 #: rules/base.extras.xml:1081
-#, fuzzy
-msgid "Urdu (Navees, Pakistan)"
-msgstr "урду — пакистанска"
-
-#: rules/base.extras.xml:1099
 msgid "Portuguese (Sun Type 6/7)"
 msgstr "португалска — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1105
+#: rules/base.extras.xml:1087
 msgid "Portuguese (Colemak)"
 msgstr "португалска — коулмак"
 
-#: rules/base.extras.xml:1120
+#: rules/base.extras.xml:1102
 msgid "Slovak (ACC layout, only accented letters)"
 msgstr "словашка — ACC, само букви с надредни знаци"
 
-#: rules/base.extras.xml:1126
+#: rules/base.extras.xml:1108
 msgid "Slovak (Sun Type 6/7)"
 msgstr "словашка — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1141
+#: rules/base.extras.xml:1123
 msgid "Spanish (Sun Type 6/7)"
 msgstr "испанска — с мъртви клавиши"
 
-#: rules/base.extras.xml:1156
+#: rules/base.extras.xml:1138
 msgid "Swedish (Dvorak A5)"
 msgstr "шведска — дворак, A5"
 
-#: rules/base.extras.xml:1162
+#: rules/base.extras.xml:1144
 msgid "Swedish (Sun Type 6/7)"
 msgstr "шведска — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1168
+#: rules/base.extras.xml:1150
 msgid "Elfdalian (Swedish, with combining ogonek)"
 msgstr "Елфдалиан — шведска, с комбинращ огонек"
 
-#: rules/base.extras.xml:1186
+#: rules/base.extras.xml:1168
 msgid "German (Switzerland, Sun Type 6/7)"
 msgstr "немска — швейцарска, на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1192
+#: rules/base.extras.xml:1174
 msgid "French (Switzerland, Sun Type 6/7)"
 msgstr "френска — швейцарска, на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1207
+#: rules/base.extras.xml:1189
 msgid "Turkish (Sun Type 6/7)"
 msgstr "турска — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1228
+#: rules/base.extras.xml:1210
 msgid "Ukrainian (Sun Type 6/7)"
 msgstr "украинска — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1243
+#: rules/base.extras.xml:1225
 msgid "English (UK, Sun Type 6/7)"
 msgstr "английска — великобританска, на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1258
+#: rules/base.extras.xml:1240
 msgid "Korean (Sun Type 6/7)"
 msgstr "корейска — на Sun, вид 6/7"
 
-#: rules/base.extras.xml:1277
+#: rules/base.extras.xml:1259
 msgid "Vietnamese (AÐERTY)"
 msgstr "виетнамска — ađerty"
 
-#: rules/base.extras.xml:1283
+#: rules/base.extras.xml:1265
 msgid "Vietnamese (QĐERTY)"
 msgstr "виетнамска — qđerty"
 
 #. Keyboard indicator for European layouts
-#: rules/base.extras.xml:1292
+#: rules/base.extras.xml:1274
 msgid "eu"
 msgstr "Евр"
 
-#: rules/base.extras.xml:1293
+#: rules/base.extras.xml:1275
 msgid "EurKEY (US)"
 msgstr "EurKEY — американска"
 
 #. Keyboard layouts for transcription and transliteration systems
-#: rules/base.extras.xml:1319
+#: rules/base.extras.xml:1301
 msgid "International Phonetic Alphabet"
 msgstr "Международна фонетична азбука"
 
-#: rules/base.extras.xml:1335
+#: rules/base.extras.xml:1317
 msgid "Modi (KaGaPa phonetic)"
 msgstr "моди — фонетична по KaGaPa"
 
-#: rules/base.extras.xml:1344
+#: rules/base.extras.xml:1326
 msgid "sas"
 msgstr "СнЗ"
 
-#: rules/base.extras.xml:1345
+#: rules/base.extras.xml:1327
 msgid "Sanskrit symbols"
 msgstr "санскритски знаци"
 
-#: rules/base.extras.xml:1355
-#, fuzzy
-msgid "Urdu (Navees)"
-msgstr "урду — пакистанска"
-
-#: rules/base.extras.xml:1375
+#: rules/base.extras.xml:1347
 msgid "Number key 4 when pressed in isolation"
 msgstr "4 самостоятелно"
 
-#: rules/base.extras.xml:1381
+#: rules/base.extras.xml:1353
 msgid "Number key 9 when pressed in isolation"
 msgstr "9 самостоятелно"
 
-#: rules/base.extras.xml:1389
+#: rules/base.extras.xml:1361
 msgid "Parentheses position"
 msgstr "Място на „()“"
 
-#: rules/base.extras.xml:1394
+#: rules/base.extras.xml:1366
 msgid "Swap with square brackets"
 msgstr "Замяна с „[]“"

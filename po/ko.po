@@ -28,7 +28,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.32.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2021-06-08 21:20+0100\n"
+"POT-Creation-Date: 2021-05-20 23:57+0100\n"
 "PO-Revision-Date: 2021-05-22 00:59+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
@@ -809,7 +809,7 @@ msgstr "크롬북"
 #: rules/base.xml:1339 rules/base.xml:1759 rules/base.xml:2294
 #: rules/base.xml:2775 rules/base.xml:3435 rules/base.xml:5610
 #: rules/base.xml:5863 rules/base.xml:5906 rules/base.xml:6051
-#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1236
+#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1218
 msgid "en"
 msgstr "en"
 
@@ -1072,7 +1072,7 @@ msgstr "아르메니아 (동부 다른 버전)"
 #. Keyboard indicator for German layouts
 #: rules/base.xml:1734 rules/base.xml:3581 rules/base.xml:5176
 #: rules/base.xml:5194 rules/base.xml:5235 rules/base.extras.xml:95
-#: rules/base.extras.xml:1179
+#: rules/base.extras.xml:1161
 msgid "de"
 msgstr "de"
 
@@ -1173,11 +1173,11 @@ msgid "Bangla (Probhat)"
 msgstr "벵골어 (프롭해트)"
 
 #. Keyboard indicator for Indian layouts
-#: rules/base.xml:1892 rules/base.extras.xml:1327
+#: rules/base.xml:1892 rules/base.extras.xml:1309
 msgid "in"
 msgstr "in"
 
-#: rules/base.xml:1893 rules/base.extras.xml:1328
+#: rules/base.xml:1893 rules/base.extras.xml:1310
 msgid "Indian"
 msgstr "인도"
 
@@ -1337,7 +1337,7 @@ msgstr "텔루구어 (사랄라)"
 
 #. Keyboard indicator for Urdu layouts
 #: rules/base.xml:2206 rules/base.xml:2217 rules/base.xml:2228
-#: rules/base.xml:5805 rules/base.extras.xml:1074 rules/base.extras.xml:1354
+#: rules/base.xml:5805
 msgid "ur"
 msgstr "ur"
 
@@ -1384,7 +1384,7 @@ msgid "Sanskrit (KaGaPa, phonetic)"
 msgstr "산스크리트 (KaGaPa, 음성 표기)"
 
 #. Keyboard indicator for Marathi layouts
-#: rules/base.xml:2283 rules/base.extras.xml:1334
+#: rules/base.xml:2283 rules/base.extras.xml:1316
 msgid "mr"
 msgstr "mr"
 
@@ -1431,7 +1431,7 @@ msgstr "보스니아어 (미국식)"
 
 #. Keyboard indicator for Portuguese layouts
 #: rules/base.xml:2362 rules/base.xml:4639 rules/base.extras.xml:823
-#: rules/base.extras.xml:1092
+#: rules/base.extras.xml:1074
 msgid "pt"
 msgstr "pt"
 
@@ -2496,7 +2496,7 @@ msgid "Lao (STEA)"
 msgstr "라오어 (STEA)"
 
 #. Keyboard indicator for Spanish layouts
-#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1134
+#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1116
 msgid "es"
 msgstr "es"
 
@@ -2771,7 +2771,7 @@ msgstr "러시아어 (폴란드, 음성 표기 드보락)"
 msgid "Polish (programmer Dvorak)"
 msgstr "폴란드어 (프로그래머 드보락)"
 
-#: rules/base.xml:4640 rules/base.extras.xml:1093
+#: rules/base.xml:4640 rules/base.extras.xml:1075
 msgid "Portuguese"
 msgstr "포르투갈어"
 
@@ -2970,11 +2970,11 @@ msgid "Slovenian (US)"
 msgstr "슬로베니아어 (미국식)"
 
 #. Keyboard indicator for Slovak layouts
-#: rules/base.xml:4993 rules/base.extras.xml:1113
+#: rules/base.xml:4993 rules/base.extras.xml:1095
 msgid "sk"
 msgstr "sk"
 
-#: rules/base.xml:4994 rules/base.extras.xml:1114
+#: rules/base.xml:4994 rules/base.extras.xml:1096
 msgid "Slovak"
 msgstr "슬로바키아어"
 
@@ -2990,7 +2990,7 @@ msgstr "슬로바키아어 (QWERTY)"
 msgid "Slovak (QWERTY, extended backslash)"
 msgstr "슬로바키아어 (QWERTY, 확장 백슬래시)"
 
-#: rules/base.xml:5025 rules/base.extras.xml:1135
+#: rules/base.xml:5025 rules/base.extras.xml:1117
 msgid "Spanish"
 msgstr "스페인어"
 
@@ -3032,11 +3032,11 @@ msgid "Spanish (Macintosh)"
 msgstr "스페인어 (매킨토시)"
 
 #. Keyboard indicator for Swedish layouts
-#: rules/base.xml:5087 rules/base.extras.xml:1149
+#: rules/base.xml:5087 rules/base.extras.xml:1131
 msgid "sv"
 msgstr "sv"
 
-#: rules/base.xml:5088 rules/base.extras.xml:1150
+#: rules/base.xml:5088 rules/base.extras.xml:1132
 msgid "Swedish"
 msgstr "스웨덴어"
 
@@ -3080,7 +3080,7 @@ msgstr "스웨덴어 (미국식)"
 msgid "Swedish Sign Language"
 msgstr "스웨덴 기호 언어"
 
-#: rules/base.xml:5177 rules/base.extras.xml:1180
+#: rules/base.xml:5177 rules/base.extras.xml:1162
 msgid "German (Switzerland)"
 msgstr "독일어 (스위스)"
 
@@ -3194,11 +3194,11 @@ msgid "Thai (Pattachote)"
 msgstr "타이어 (Pattachote)"
 
 #. Keyboard indicator for Turkish layouts
-#: rules/base.xml:5392 rules/base.extras.xml:1200
+#: rules/base.xml:5392 rules/base.extras.xml:1182
 msgid "tr"
 msgstr "tr"
 
-#: rules/base.xml:5393 rules/base.extras.xml:1201
+#: rules/base.xml:5393 rules/base.extras.xml:1183
 msgid "Turkish"
 msgstr "터키어"
 
@@ -3252,7 +3252,7 @@ msgstr "오스만"
 msgid "Ottoman (F)"
 msgstr "오스만 (F)"
 
-#: rules/base.xml:5498 rules/base.extras.xml:1213
+#: rules/base.xml:5498 rules/base.extras.xml:1195
 msgid "Old Turkic"
 msgstr "과거 터키어"
 
@@ -3275,11 +3275,11 @@ msgid "Saisiyat (Taiwan)"
 msgstr "사이시얏트 (타이완)"
 
 #. Keyboard indicator for Ukranian layouts
-#: rules/base.xml:5555 rules/base.extras.xml:1221
+#: rules/base.xml:5555 rules/base.extras.xml:1203
 msgid "uk"
 msgstr "uk"
 
-#: rules/base.xml:5556 rules/base.extras.xml:1222
+#: rules/base.xml:5556 rules/base.extras.xml:1204
 msgid "Ukrainian"
 msgstr "우크라이나어"
 
@@ -3311,7 +3311,7 @@ msgstr "러시아어 (우크라이나, 표준 RSTU)"
 msgid "Ukrainian (homophonic)"
 msgstr "우크라이나어 (homophonic)"
 
-#: rules/base.xml:5611 rules/base.extras.xml:1237
+#: rules/base.xml:5611 rules/base.extras.xml:1219
 msgid "English (UK)"
 msgstr "영어 (영국식)"
 
@@ -3360,11 +3360,11 @@ msgid "Uzbek (Latin)"
 msgstr "우즈베크어 (라틴 문자)"
 
 #. Keyboard indicator for Vietnamese layouts
-#: rules/base.xml:5701 rules/base.extras.xml:1267
+#: rules/base.xml:5701 rules/base.extras.xml:1249
 msgid "vi"
 msgstr "vi"
 
-#: rules/base.xml:5702 rules/base.extras.xml:1268
+#: rules/base.xml:5702 rules/base.extras.xml:1250
 msgid "Vietnamese"
 msgstr "베트남어"
 
@@ -3377,11 +3377,11 @@ msgid "Vietnamese (French)"
 msgstr "베트남어 (프랑스식)"
 
 #. Keyboard indicator for Korean layouts
-#: rules/base.xml:5726 rules/base.extras.xml:1251
+#: rules/base.xml:5726 rules/base.extras.xml:1233
 msgid "ko"
 msgstr "ko"
 
-#: rules/base.xml:5727 rules/base.extras.xml:1252
+#: rules/base.xml:5727 rules/base.extras.xml:1234
 msgid "Korean"
 msgstr "한국어"
 
@@ -3421,7 +3421,7 @@ msgid "Ogham (IS434)"
 msgstr "오검 문자 (IS434)"
 
 # Urdu - 인도 방언
-#: rules/base.xml:5806 rules/base.extras.xml:1075
+#: rules/base.xml:5806
 msgid "Urdu (Pakistan)"
 msgstr "우르두어 (파키스탄)"
 
@@ -3758,10 +3758,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "메뉴 키 (누르고 있는 동안), 일반 메뉴 키는 Shift+메뉴"
 
 #: rules/base.xml:6417
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Caps Lock (누르고 있는 동안), Alt+Caps Lock을 누르면 원래 Caps Lock 기능"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Caps Lock (누르고 있는 동안), Alt+Caps Lock을 누르면 원래 Caps Lock 기능"
 
 #: rules/base.xml:6423
 msgid "Right Ctrl (while pressed)"
@@ -3878,8 +3876,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6591
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"왼쪽 Ctrl+왼쪽 윈도우 키는 1번 배치로, 오른쪽 Ctrl+메뉴 키는 2번 배치로"
+msgstr "왼쪽 Ctrl+왼쪽 윈도우 키는 1번 배치로, 오른쪽 Ctrl+메뉴 키는 2번 배치로"
 
 #: rules/base.xml:6597
 msgid "Left Ctrl+Left Win"
@@ -3893,7 +3890,7 @@ msgstr "2번째 단계를 선택하는 키"
 msgid "The \"&lt; &gt;\" key"
 msgstr "\"&lt; &gt;\" 키"
 
-#: rules/base.xml:6619 rules/base.extras.xml:1370
+#: rules/base.xml:6619 rules/base.extras.xml:1342
 msgid "Key to choose the 3rd level"
 msgstr "3번째 단계를 선택하는 키"
 
@@ -3922,21 +3919,15 @@ msgid "Backslash"
 msgstr "백슬래시"
 
 #: rules/base.xml:6708
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
 msgstr "Caps Lock 키, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6714
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "백슬래시 키, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6720
-msgid ""
-"The \"&lt; &gt;\" key; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
+msgid "The \"&lt; &gt;\" key; acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "\"&lt; &gt;\" 키, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6728
@@ -3989,9 +3980,7 @@ msgstr "오른쪽 윈도우 키와 오른쪽 Ctrl 뒤바꾸기"
 
 #: rules/base.xml:6798
 msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
-msgstr ""
-"왼쪽 Alt 키를 Ctrl 키로, 왼쪽 Ctrl 키를 윈도우 키로, 왼쪽 윈도우 키를 왼쪽 "
-"Alt 키로"
+msgstr "왼쪽 Alt 키를 Ctrl 키로, 왼쪽 Ctrl 키를 윈도우 키로, 왼쪽 윈도우 키를 왼쪽 Alt 키로"
 
 #: rules/base.xml:6806
 msgid "Use keyboard LED to show alternative layout"
@@ -4035,8 +4024,7 @@ msgstr "Wang 724 키패드, 유니코드 추가 화살표 및 수학 기호 포�
 
 #: rules/base.xml:6879
 msgid "Wang 724 keypad with Unicode arrows and math operators on default level"
-msgstr ""
-"Wang 724 키패드, 유니코드 추가 화살표 및 수학 기호를 기본 단계에서 포함"
+msgstr "Wang 724 키패드, 유니코드 추가 화살표 및 수학 기호를 기본 단계에서 포함"
 
 #: rules/base.xml:6885
 msgid "Hexadecimal"
@@ -4092,27 +4080,19 @@ msgstr "Caps Lock 키 동작"
 
 #: rules/base.xml:6966
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock 키가 내부 대문자 기능 사용, Shift 키를 누르면 Caps Lock을 \"일시 중"
-"지\""
+msgstr "Caps Lock 키가 내부 대문자 기능 사용, Shift 키를 누르면 Caps Lock을 \"일시 중지\""
 
 #: rules/base.xml:6972
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock 키가 내부 대문자 기능 사용, Shift 키를 눌러도 Caps Lock 상태에 영"
-"향 없음"
+msgstr "Caps Lock 키가 내부 대문자 기능 사용, Shift 키를 눌러도 Caps Lock 상태에 영향 없음"
 
 #: rules/base.xml:6978
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock 키가 Shift 키처럼 동작하고 상태 고정, Shift 키를 누르면 Caps Lock"
-"을 \"일시 중지\""
+msgstr "Caps Lock 키가 Shift 키처럼 동작하고 상태 고정, Shift 키를 누르면 Caps Lock을 \"일시 중지\""
 
 #: rules/base.xml:6984
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock 키가 Shift 키처럼 동작하고 상태 고정, Shift 키를 눌러도 Caps Lock "
-"상태에 영향 없음"
+msgstr "Caps Lock 키가 Shift 키처럼 동작하고 상태 고정, Shift 키를 눌러도 Caps Lock 상태에 영향 없음"
 
 #: rules/base.xml:6990
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
@@ -4131,12 +4111,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Caps Lock 키를 추가 Esc 키로 사용"
 
 #: rules/base.xml:7014
-msgid ""
-"Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps "
-"Lock"
-msgstr ""
-"Caps Lock 키를 추가 Esc 키로 만들고, Shift + Caps Lock을 동시 누르면 일반 "
-"Caps Lock 키처럼 동작"
+msgid "Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps Lock"
+msgstr "Caps Lock 키를 추가 Esc 키로 만들고, Shift + Caps Lock을 동시 누르면 일반 Caps Lock 키처럼 동작"
 
 #: rules/base.xml:7020
 msgid "Make Caps Lock an additional Backspace"
@@ -4279,11 +4255,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "숫자 키패드 키가 항상 숫자를 입력 (맥 OS처럼 동작)"
 
 #: rules/base.xml:7286
-msgid ""
-"Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
-msgstr ""
-"Num Lock 켜면: 숫자, Shift 키 누르면 화살표 키, Num Lock 끄면: 화살표 키 (윈"
-"도우 방식)"
+msgid "Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
+msgstr "Num Lock 켜면: 숫자, Shift 키 누르면 화살표 키, Num Lock 끄면: 화살표 키 (윈도우 방식)"
 
 #: rules/base.xml:7292
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4374,36 +4347,20 @@ msgid "Menu chooses 5th level"
 msgstr "메뉴로 5번째 단계를 선택"
 
 #: rules/base.xml:7425
-msgid ""
-"The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if "
-"pressed with another 5th level chooser"
-msgstr ""
-"오른쪽 Alt 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 "
-"고정"
+msgid "The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "오른쪽 Alt 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7431
-msgid ""
-"Right Alt chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"오른쪽 Alt 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 "
-"고정"
+msgid "Right Alt chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "오른쪽 Alt 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7437
-msgid ""
-"Left Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"왼쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 "
-"고정"
+msgid "Left Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "왼쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7443
-msgid ""
-"Right Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"오른쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일"
-"시 고정"
+msgid "Right Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "오른쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7489
 msgid "Non-breaking space input"
@@ -4426,8 +4383,7 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "3번째 단계에서 강제 공백 문자, 4번째에서는 출력 없음"
 
 #: rules/base.xml:7518
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "3번째 단계에서 강제 공백 문자, 4번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7524
@@ -4435,67 +4391,43 @@ msgid "Non-breaking space at the 4th level"
 msgstr "4번째 단계에서 강제 공백 문자"
 
 #: rules/base.xml:7530
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
 msgstr "4번째 단계에서 강제 공백 문자, 6번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7536
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"4번째 단계에서 강제 공백 문자, 6번째 단계에서 얇은 강제 공백 문자 (Ctrl"
-"+Shift 사용)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "4번째 단계에서 강제 공백 문자, 6번째 단계에서 얇은 강제 공백 문자 (Ctrl+Shift 사용)"
 
 #: rules/base.xml:7542
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자"
 
 #: rules/base.xml:7548
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7554
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자, 4번째에"
-"서는 강제 공백 문자"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자, 4번째에서는 강제 공백 문자"
 
 #: rules/base.xml:7560
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자"
 
 #: rules/base.xml:7566
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 없음"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 없음"
 
 #: rules/base.xml:7572
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 폭 없는 연결 문자"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7578
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 얇은 강제 공백 문자"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7584
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
 msgstr "3번째 단계에서 폭 없는 연결 금지 문자, 4번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7591
@@ -4793,8 +4725,7 @@ msgstr "체코어, 슬로바키아어 및 독일어 (미국식)"
 
 #: rules/base.extras.xml:402
 msgid "Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US)"
-msgstr ""
-"체코어, 슬로바키아어, 폴란드어, 스페인어, 핀란드어, 스웨덴어, 독일어 (미국식)"
+msgstr "체코어, 슬로바키아어, 폴란드어, 스페인어, 핀란드어, 스웨덴어, 독일어 (미국식)"
 
 #: rules/base.extras.xml:418
 msgid "English (Drix)"
@@ -5045,120 +4976,108 @@ msgstr "일본어 (썬 타입 7, 썬 호환)"
 msgid "Norwegian (Sun Type 6/7)"
 msgstr "노르웨이어 (썬 타입 6/7)"
 
-# Urdu - 인도 방언
 #: rules/base.extras.xml:1081
-#, fuzzy
-msgid "Urdu (Navees, Pakistan)"
-msgstr "우르두어 (파키스탄)"
-
-#: rules/base.extras.xml:1099
 msgid "Portuguese (Sun Type 6/7)"
 msgstr "포르투갈어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1105
+#: rules/base.extras.xml:1087
 msgid "Portuguese (Colemak)"
 msgstr "포르투갈어 (콜맥)"
 
-#: rules/base.extras.xml:1120
+#: rules/base.extras.xml:1102
 msgid "Slovak (ACC layout, only accented letters)"
 msgstr "체코어 (ACC 배치, 액센트 문자만)"
 
-#: rules/base.extras.xml:1126
+#: rules/base.extras.xml:1108
 msgid "Slovak (Sun Type 6/7)"
 msgstr "슬로바키아어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1141
+#: rules/base.extras.xml:1123
 msgid "Spanish (Sun Type 6/7)"
 msgstr "스페인어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1156
+#: rules/base.extras.xml:1138
 msgid "Swedish (Dvorak A5)"
 msgstr "스웨덴어 (드보락 A5)"
 
-#: rules/base.extras.xml:1162
+#: rules/base.extras.xml:1144
 msgid "Swedish (Sun Type 6/7)"
 msgstr "스웨덴어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1168
+#: rules/base.extras.xml:1150
 msgid "Elfdalian (Swedish, with combining ogonek)"
 msgstr "엘프달리언 (스웨덴, ogonek 조합 포함)"
 
-#: rules/base.extras.xml:1186
+#: rules/base.extras.xml:1168
 msgid "German (Switzerland, Sun Type 6/7)"
 msgstr "독일어 (스위스, 썬 타입 6/7)"
 
-#: rules/base.extras.xml:1192
+#: rules/base.extras.xml:1174
 msgid "French (Switzerland, Sun Type 6/7)"
 msgstr "프랑스어 (스위스, 썬 타입 6/7)"
 
-#: rules/base.extras.xml:1207
+#: rules/base.extras.xml:1189
 msgid "Turkish (Sun Type 6/7)"
 msgstr "터키어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1228
+#: rules/base.extras.xml:1210
 msgid "Ukrainian (Sun Type 6/7)"
 msgstr "우크라이나어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1243
+#: rules/base.extras.xml:1225
 msgid "English (UK, Sun Type 6/7)"
 msgstr "영어 (영국식, 썬 타입 6/7)"
 
-#: rules/base.extras.xml:1258
+#: rules/base.extras.xml:1240
 msgid "Korean (Sun Type 6/7)"
 msgstr "한국어 (썬 타입 6/7)"
 
-#: rules/base.extras.xml:1277
+#: rules/base.extras.xml:1259
 msgid "Vietnamese (AÐERTY)"
 msgstr "베트남어 (AÐERTY)"
 
-#: rules/base.extras.xml:1283
+#: rules/base.extras.xml:1265
 msgid "Vietnamese (QĐERTY)"
 msgstr "베트남어 (QĐERTY)"
 
 #. Keyboard indicator for European layouts
-#: rules/base.extras.xml:1292
+#: rules/base.extras.xml:1274
 msgid "eu"
 msgstr "eu"
 
-#: rules/base.extras.xml:1293
+#: rules/base.extras.xml:1275
 msgid "EurKEY (US)"
 msgstr "EurKEY (미국식)"
 
 #. Keyboard layouts for transcription and transliteration systems
-#: rules/base.extras.xml:1319
+#: rules/base.extras.xml:1301
 msgid "International Phonetic Alphabet"
 msgstr "국제 음성 표기 알파벳"
 
-#: rules/base.extras.xml:1335
+#: rules/base.extras.xml:1317
 msgid "Modi (KaGaPa phonetic)"
 msgstr "모디 (KaGaPa 음성 표기)"
 
-#: rules/base.extras.xml:1344
+#: rules/base.extras.xml:1326
 msgid "sas"
 msgstr "sas"
 
-#: rules/base.extras.xml:1345
+#: rules/base.extras.xml:1327
 msgid "Sanskrit symbols"
 msgstr "산스크리트 기호"
 
-# Urdu - 인도 방언
-#: rules/base.extras.xml:1355
-#, fuzzy
-msgid "Urdu (Navees)"
-msgstr "우르두어 (파키스탄)"
-
-#: rules/base.extras.xml:1375
+#: rules/base.extras.xml:1347
 msgid "Number key 4 when pressed in isolation"
 msgstr "숫자 키 4를 단독으로 눌렀을 때"
 
-#: rules/base.extras.xml:1381
+#: rules/base.extras.xml:1353
 msgid "Number key 9 when pressed in isolation"
 msgstr "숫자 키 9를 단독으로 눌렀을 때"
 
-#: rules/base.extras.xml:1389
+#: rules/base.extras.xml:1361
 msgid "Parentheses position"
 msgstr "괄호 위치"
 
-#: rules/base.extras.xml:1394
+#: rules/base.extras.xml:1366
 msgid "Swap with square brackets"
 msgstr "대괄호와 뒤바꾸기"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.32.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2021-06-08 21:20+0100\n"
+"POT-Creation-Date: 2021-05-20 23:57+0100\n"
 "PO-Revision-Date: 2021-05-23 00:56+0200\n"
 "Last-Translator: Florentina Mușat <florentina.musat.28@gmail.com>\n"
 "Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
@@ -18,8 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);;\n"
 "X-Generator: Poedit 2.4.3\n"
 "X-Launchpad-Export-Date: 2010-08-06 19:56+0000\n"
 
@@ -781,7 +780,7 @@ msgstr "Chromebook"
 #: rules/base.xml:1339 rules/base.xml:1759 rules/base.xml:2294
 #: rules/base.xml:2775 rules/base.xml:3435 rules/base.xml:5610
 #: rules/base.xml:5863 rules/base.xml:5906 rules/base.xml:6051
-#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1236
+#: rules/base.xml:6062 rules/base.extras.xml:352 rules/base.extras.xml:1218
 msgid "en"
 msgstr "en"
 
@@ -1039,7 +1038,7 @@ msgstr "Armeană (estică alternativă)"
 #. Keyboard indicator for German layouts
 #: rules/base.xml:1734 rules/base.xml:3581 rules/base.xml:5176
 #: rules/base.xml:5194 rules/base.xml:5235 rules/base.extras.xml:95
-#: rules/base.extras.xml:1179
+#: rules/base.extras.xml:1161
 msgid "de"
 msgstr "de"
 
@@ -1140,11 +1139,11 @@ msgid "Bangla (Probhat)"
 msgstr "Bangla (Probhat)"
 
 #. Keyboard indicator for Indian layouts
-#: rules/base.xml:1892 rules/base.extras.xml:1327
+#: rules/base.xml:1892 rules/base.extras.xml:1309
 msgid "in"
 msgstr "in"
 
-#: rules/base.xml:1893 rules/base.extras.xml:1328
+#: rules/base.xml:1893 rules/base.extras.xml:1310
 msgid "Indian"
 msgstr "Indiană"
 
@@ -1299,7 +1298,7 @@ msgstr "Telugu (Sarala)"
 
 #. Keyboard indicator for Urdu layouts
 #: rules/base.xml:2206 rules/base.xml:2217 rules/base.xml:2228
-#: rules/base.xml:5805 rules/base.extras.xml:1074 rules/base.extras.xml:1354
+#: rules/base.xml:5805
 msgid "ur"
 msgstr "ur"
 
@@ -1342,7 +1341,7 @@ msgid "Sanskrit (KaGaPa, phonetic)"
 msgstr "Sanscrită (KaGaPa fonetic)"
 
 #. Keyboard indicator for Marathi layouts
-#: rules/base.xml:2283 rules/base.extras.xml:1334
+#: rules/base.xml:2283 rules/base.extras.xml:1316
 msgid "mr"
 msgstr "mr"
 
@@ -1389,7 +1388,7 @@ msgstr "Bosniacă (US)"
 
 #. Keyboard indicator for Portuguese layouts
 #: rules/base.xml:2362 rules/base.xml:4639 rules/base.extras.xml:823
-#: rules/base.extras.xml:1092
+#: rules/base.extras.xml:1074
 msgid "pt"
 msgstr "pt"
 
@@ -2434,7 +2433,7 @@ msgid "Lao (STEA)"
 msgstr "Lao (STEA)"
 
 #. Keyboard indicator for Spanish layouts
-#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1134
+#: rules/base.xml:4190 rules/base.xml:5024 rules/base.extras.xml:1116
 msgid "es"
 msgstr "es"
 
@@ -2708,7 +2707,7 @@ msgstr "Rusă (Polonia, Dvorak fonetică)"
 msgid "Polish (programmer Dvorak)"
 msgstr "Poloneză (Dvorak pentru programatori)"
 
-#: rules/base.xml:4640 rules/base.extras.xml:1093
+#: rules/base.xml:4640 rules/base.extras.xml:1075
 msgid "Portuguese"
 msgstr "Portugheză"
 
@@ -2903,11 +2902,11 @@ msgid "Slovenian (US)"
 msgstr "Slovenă (USA)"
 
 #. Keyboard indicator for Slovak layouts
-#: rules/base.xml:4993 rules/base.extras.xml:1113
+#: rules/base.xml:4993 rules/base.extras.xml:1095
 msgid "sk"
 msgstr "sk"
 
-#: rules/base.xml:4994 rules/base.extras.xml:1114
+#: rules/base.xml:4994 rules/base.extras.xml:1096
 msgid "Slovak"
 msgstr "Slovacă"
 
@@ -2923,7 +2922,7 @@ msgstr "Slovacă (QWERTY)"
 msgid "Slovak (QWERTY, extended backslash)"
 msgstr "Slovacă (QWERTY, bară oblică inversă extinsă)"
 
-#: rules/base.xml:5025 rules/base.extras.xml:1135
+#: rules/base.xml:5025 rules/base.extras.xml:1117
 msgid "Spanish"
 msgstr "Spaniolă"
 
@@ -2964,11 +2963,11 @@ msgid "Spanish (Macintosh)"
 msgstr "Spaniolă (Macintosh)"
 
 #. Keyboard indicator for Swedish layouts
-#: rules/base.xml:5087 rules/base.extras.xml:1149
+#: rules/base.xml:5087 rules/base.extras.xml:1131
 msgid "sv"
 msgstr "sv"
 
-#: rules/base.xml:5088 rules/base.extras.xml:1150
+#: rules/base.xml:5088 rules/base.extras.xml:1132
 msgid "Swedish"
 msgstr "Suedeză"
 
@@ -3012,7 +3011,7 @@ msgstr "Suedeză (SUA)"
 msgid "Swedish Sign Language"
 msgstr "Limba suedeză a semnelor"
 
-#: rules/base.xml:5177 rules/base.extras.xml:1180
+#: rules/base.xml:5177 rules/base.extras.xml:1162
 msgid "German (Switzerland)"
 msgstr "Germană (Elveția)"
 
@@ -3126,11 +3125,11 @@ msgid "Thai (Pattachote)"
 msgstr "Tailandeză (Pattachote)"
 
 #. Keyboard indicator for Turkish layouts
-#: rules/base.xml:5392 rules/base.extras.xml:1200
+#: rules/base.xml:5392 rules/base.extras.xml:1182
 msgid "tr"
 msgstr "tr"
 
-#: rules/base.xml:5393 rules/base.extras.xml:1201
+#: rules/base.xml:5393 rules/base.extras.xml:1183
 msgid "Turkish"
 msgstr "Turcă"
 
@@ -3184,7 +3183,7 @@ msgstr "Otoman"
 msgid "Ottoman (F)"
 msgstr "Otomană (F)"
 
-#: rules/base.xml:5498 rules/base.extras.xml:1213
+#: rules/base.xml:5498 rules/base.extras.xml:1195
 msgid "Old Turkic"
 msgstr "Turcă veche"
 
@@ -3206,11 +3205,11 @@ msgid "Saisiyat (Taiwan)"
 msgstr "Saisiyat (Taiwan)"
 
 #. Keyboard indicator for Ukranian layouts
-#: rules/base.xml:5555 rules/base.extras.xml:1221
+#: rules/base.xml:5555 rules/base.extras.xml:1203
 msgid "uk"
 msgstr "uk"
 
-#: rules/base.xml:5556 rules/base.extras.xml:1222
+#: rules/base.xml:5556 rules/base.extras.xml:1204
 msgid "Ukrainian"
 msgstr "Ucraineană"
 
@@ -3242,7 +3241,7 @@ msgstr "Rusă (Ucraina, RSTU standard)"
 msgid "Ukrainian (homophonic)"
 msgstr "Ucraineană (homofonică)"
 
-#: rules/base.xml:5611 rules/base.extras.xml:1237
+#: rules/base.xml:5611 rules/base.extras.xml:1219
 msgid "English (UK)"
 msgstr "Engleză (Marea Britanie)"
 
@@ -3291,11 +3290,11 @@ msgid "Uzbek (Latin)"
 msgstr "Uzbecă (alfabet latin)"
 
 #. Keyboard indicator for Vietnamese layouts
-#: rules/base.xml:5701 rules/base.extras.xml:1267
+#: rules/base.xml:5701 rules/base.extras.xml:1249
 msgid "vi"
 msgstr "vi"
 
-#: rules/base.xml:5702 rules/base.extras.xml:1268
+#: rules/base.xml:5702 rules/base.extras.xml:1250
 msgid "Vietnamese"
 msgstr "Vietnameză"
 
@@ -3308,11 +3307,11 @@ msgid "Vietnamese (French)"
 msgstr "Vietnameză (Franceză)"
 
 #. Keyboard indicator for Korean layouts
-#: rules/base.xml:5726 rules/base.extras.xml:1251
+#: rules/base.xml:5726 rules/base.extras.xml:1233
 msgid "ko"
 msgstr "ko"
 
-#: rules/base.xml:5727 rules/base.extras.xml:1252
+#: rules/base.xml:5727 rules/base.extras.xml:1234
 msgid "Korean"
 msgstr "Coreeană"
 
@@ -3349,7 +3348,7 @@ msgstr "Ogamă"
 msgid "Ogham (IS434)"
 msgstr "Ogamă (IS434)"
 
-#: rules/base.xml:5806 rules/base.extras.xml:1075
+#: rules/base.xml:5806
 msgid "Urdu (Pakistan)"
 msgstr "Urdu (Pakistan)"
 
@@ -3676,11 +3675,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Meniu (cât timp este apăsat), Shift+Meniu pentru Meniu"
 
 #: rules/base.xml:6417
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Caps Lock (în timp ce este apăsat), Alt+Caps Lock pentru acțiunea Caps Lock "
-"originală"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Caps Lock (în timp ce este apăsat), Alt+Caps Lock pentru acțiunea Caps Lock originală"
 
 #: rules/base.xml:6423
 msgid "Right Ctrl (while pressed)"
@@ -3709,8 +3705,7 @@ msgstr "Caps Lock la primul aranjament; Shift+Caps Lock la ultimul aranjament"
 
 #: rules/base.xml:6459
 msgid "Left Win to first layout; Right Win/Menu to last layout"
-msgstr ""
-"Win stânga la primul aranjament; Win dreapta/Meniu la ultimul aranjament"
+msgstr "Win stânga la primul aranjament; Win dreapta/Meniu la ultimul aranjament"
 
 #: rules/base.xml:6465
 msgid "Left Ctrl to first layout; Right Ctrl to last layout"
@@ -3798,9 +3793,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6591
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Ctrl stânga+Win stânga la primul aranjament; Ctrl dreapta+Meniu la al doilea "
-"aranjament"
+msgstr "Ctrl stânga+Win stânga la primul aranjament; Ctrl dreapta+Meniu la al doilea aranjament"
 
 #: rules/base.xml:6597
 msgid "Left Ctrl+Left Win"
@@ -3814,7 +3807,7 @@ msgstr "Tasta care alege nivelul al 2-lea"
 msgid "The \"&lt; &gt;\" key"
 msgstr "Tasta \"&lt; &gt;\""
 
-#: rules/base.xml:6619 rules/base.extras.xml:1370
+#: rules/base.xml:6619 rules/base.extras.xml:1342
 msgid "Key to choose the 3rd level"
 msgstr "Tasta care alege nivelul 3"
 
@@ -3843,28 +3836,16 @@ msgid "Backslash"
 msgstr "Bară oblică inversă"
 
 #: rules/base.xml:6708
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Caps Lock; acționează ca blocare permanentă când este apăsat împreună cu alt "
-"selector de nivelul 3"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Caps Lock; acționează ca blocare permanentă când este apăsat împreună cu alt selector de nivelul 3"
 
 #: rules/base.xml:6714
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Bara oblică inversă; acționează ca blocare permanentă când este apăsat "
-"împreună cu alt selector de nivelul 3"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Bara oblică inversă; acționează ca blocare permanentă când este apăsat împreună cu alt selector de nivelul 3"
 
 #: rules/base.xml:6720
-msgid ""
-"The \"&lt; &gt;\" key; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"Tasta „&lt; &gt;”;  acționează ca blocare temporară când este apăsată "
-"împreună cu alt selector pentru nivelul al 3-lea"
+msgid "The \"&lt; &gt;\" key; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Tasta „&lt; &gt;”;  acționează ca blocare temporară când este apăsată împreună cu alt selector pentru nivelul al 3-lea"
 
 #: rules/base.xml:6728
 msgid "Ctrl position"
@@ -3960,9 +3941,7 @@ msgstr "Tastatură Wang 724 cu săgeți Unicode și operatori matematici"
 
 #: rules/base.xml:6879
 msgid "Wang 724 keypad with Unicode arrows and math operators on default level"
-msgstr ""
-"Tastatură Wang 724 cu săgeți Unicode și operatori matematici pe nivelul "
-"implicit"
+msgstr "Tastatură Wang 724 cu săgeți Unicode și operatori matematici pe nivelul implicit"
 
 #: rules/base.xml:6885
 msgid "Hexadecimal"
@@ -4021,8 +4000,7 @@ msgstr "Caps Lock utilizează capitalizarea internă; Shift „pauzează” Caps
 
 #: rules/base.xml:6972
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock utilizează capitalizarea internă; Shift nu afectează Caps Lock"
+msgstr "Caps Lock utilizează capitalizarea internă; Shift nu afectează Caps Lock"
 
 #: rules/base.xml:6978
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
@@ -4034,8 +4012,7 @@ msgstr "Caps Lock acționează ca Shift cu blocare; Shift nu afectează Caps Loc
 
 #: rules/base.xml:6990
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
-msgstr ""
-"Caps Lock comută capitalizarea normală a tuturor caracterelor alfabetice"
+msgstr "Caps Lock comută capitalizarea normală a tuturor caracterelor alfabetice"
 
 #: rules/base.xml:6996
 msgid "Caps Lock toggles Shift Lock (affects all keys)"
@@ -4050,12 +4027,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Fă Caps Lock un Esc adițional"
 
 #: rules/base.xml:7014
-msgid ""
-"Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps "
-"Lock"
-msgstr ""
-"Fă Caps Lock un alt Esc suplimentar dar Shift + Caps Lock preia rolul lui "
-"Caps Lock"
+msgid "Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps Lock"
+msgstr "Fă Caps Lock un alt Esc suplimentar dar Shift + Caps Lock preia rolul lui Caps Lock"
 
 #: rules/base.xml:7020
 msgid "Make Caps Lock an additional Backspace"
@@ -4198,11 +4171,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Tastatura numerică introduce întotdeauna cifre (ca în macOS)"
 
 #: rules/base.xml:7286
-msgid ""
-"Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
-msgstr ""
-"Blocarea numerelor pornită: cifre; Shift pentru tastele săgeți. Blocarea "
-"numerelor oprită: taste săgeți (ca în Windows)"
+msgid "Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
+msgstr "Blocarea numerelor pornită: cifre; Shift pentru tastele săgeți. Blocarea numerelor oprită: taste săgeți (ca în Windows)"
 
 #: rules/base.xml:7292
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4234,9 +4204,7 @@ msgstr "Ambele taste Shift apăsate împreună activează Caps Lock"
 
 #: rules/base.xml:7334
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Ambele taste Shift apăsate împreună activează Caps Lock; o tastă Shift o "
-"dezactivează"
+msgstr "Ambele taste Shift apăsate împreună activează Caps Lock; o tastă Shift o dezactivează"
 
 #: rules/base.xml:7340
 msgid "Both Shift together enable Shift Lock"
@@ -4248,9 +4216,7 @@ msgstr "Shift + Blocarea numerelor activează tastele pointer"
 
 #: rules/base.xml:7352
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Permiteți ruperea apucărilor cu acțiuni de la tastatură (avertisment: risc "
-"de securitate)"
+msgstr "Permiteți ruperea apucărilor cu acțiuni de la tastatură (avertisment: risc de securitate)"
 
 #: rules/base.xml:7358
 msgid "Allow grab and window tree logging"
@@ -4297,36 +4263,20 @@ msgid "Menu chooses 5th level"
 msgstr "Meniu alegea al 5-lea nivel"
 
 #: rules/base.xml:7425
-msgid ""
-"The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if "
-"pressed with another 5th level chooser"
-msgstr ""
-"Tasta alege „&lt; &gt;” al cincilea nivel și acționează ca blocare temporară "
-"când este apăsată împreună cu alt selector pentru nivelul al 5-lea"
+msgid "The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Tasta alege „&lt; &gt;” al cincilea nivel și acționează ca blocare temporară când este apăsată împreună cu alt selector pentru nivelul al 5-lea"
 
 #: rules/base.xml:7431
-msgid ""
-"Right Alt chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Alt dreapta alege nivelul al 5-lea și acționează ca blocare temporară când "
-"este apăsat împreună cu alt selector pentru nivelul al 5-lea"
+msgid "Right Alt chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Alt dreapta alege nivelul al 5-lea și acționează ca blocare temporară când este apăsat împreună cu alt selector pentru nivelul al 5-lea"
 
 #: rules/base.xml:7437
-msgid ""
-"Left Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Win stânga alege nivelul al 5-lea și acționează ca blocare temporară când "
-"este apăsat împreună cu un alt selector pentru nivelul al 5-lea"
+msgid "Left Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Win stânga alege nivelul al 5-lea și acționează ca blocare temporară când este apăsat împreună cu un alt selector pentru nivelul al 5-lea"
 
 #: rules/base.xml:7443
-msgid ""
-"Right Win chooses 5th level and acts as a one-time lock if pressed with "
-"another 5th level chooser"
-msgstr ""
-"Win dreapta alege nivelul al 5-lea și acționează ca blocare temporară când "
-"este apăsat împreună cu alt selector pentru nivelul al 5-lea"
+msgid "Right Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr "Win dreapta alege nivelul al 5-lea și acționează ca blocare temporară când este apăsat împreună cu alt selector pentru nivelul al 5-lea"
 
 #: rules/base.xml:7489
 msgid "Non-breaking space input"
@@ -4349,86 +4299,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Caracter spațiu fără rupere la nivelul 3, nimic la nivelul 4"
 
 #: rules/base.xml:7518
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la "
-"nivelul 4"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la nivelul 4"
 
 #: rules/base.xml:7524
 msgid "Non-breaking space at the 4th level"
 msgstr "Caracter spațiu fără rupere la nivelul 4"
 
 #: rules/base.xml:7530
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la "
-"nivelul 6"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la nivelul 6"
 
 #: rules/base.xml:7536
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la "
-"nivelul 6 (via Ctrl+Shift)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Caracter spațiu fără rupere la nivelul 4, spațiu fără rupere subțire la nivelul 6 (via Ctrl+Shift)"
 
 #: rules/base.xml:7542
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Caracter cu lățime zero non-joiner la nivelul 2"
 
 #: rules/base.xml:7548
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, non-joiner la nivelul 3"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, non-joiner la nivelul 3"
 
 #: rules/base.xml:7554
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, joiner la nivelul 3, "
-"spațiu fără rupere la nivelul 4"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, joiner la nivelul 3, spațiu fără rupere la nivelul 4"
 
 #: rules/base.xml:7560
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la "
-"nivelul 3"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la nivelul 3"
 
 #: rules/base.xml:7566
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la "
-"nivelul 3, nimic la nivelul 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la nivelul 3, nimic la nivelul 4"
 
 #: rules/base.xml:7572
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la "
-"nivelul 3, cu lățime zero joiner la nivelul 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la nivelul 3, cu lățime zero joiner la nivelul 4"
 
 #: rules/base.xml:7578
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la "
-"nivelul 3, spațiu fără rupere subțire la nivelul 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 2, spațiu fără rupere la nivelul 3, spațiu fără rupere subțire la nivelul 4"
 
 #: rules/base.xml:7584
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Caractere cu lățime zero non-joiner la nivelul 3, cu lățime zero joiner la "
-"nivelul 4"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Caractere cu lățime zero non-joiner la nivelul 3, cu lățime zero joiner la nivelul 4"
 
 #: rules/base.xml:7591
 msgid "Japanese keyboard options"
@@ -4720,8 +4636,7 @@ msgstr "Slovacă cehă și germană (SUA)"
 
 #: rules/base.extras.xml:402
 msgid "Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US)"
-msgstr ""
-"Cehă, slovacă, poloneză, spaniolă, finlandeză, suedeză și germană (SUA)"
+msgstr "Cehă, slovacă, poloneză, spaniolă, finlandeză, suedeză și germană (SUA)"
 
 #: rules/base.extras.xml:418
 msgid "English (Drix)"
@@ -4757,13 +4672,11 @@ msgstr "Engleză (Carpalx, optimizare completă)"
 
 #: rules/base.extras.xml:472
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"Engleză (Carpalx, optimizare completă, internațională, cu taste moarte)"
+msgstr "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte)"
 
 #: rules/base.extras.xml:478
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Engleză (Carpalx, optimizare completă, internațională, cu taste moarte AltGr)"
+msgstr "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte AltGr)"
 
 #: rules/base.extras.xml:484
 msgid "English (3l)"
@@ -4974,118 +4887,108 @@ msgid "Norwegian (Sun Type 6/7)"
 msgstr "Norvegiană (Tipul 6/7 Sun)"
 
 #: rules/base.extras.xml:1081
-#, fuzzy
-msgid "Urdu (Navees, Pakistan)"
-msgstr "Urdu (Pakistan)"
-
-#: rules/base.extras.xml:1099
 msgid "Portuguese (Sun Type 6/7)"
 msgstr "Portugheză (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1105
+#: rules/base.extras.xml:1087
 msgid "Portuguese (Colemak)"
 msgstr "Portugheză (Colemak)"
 
-#: rules/base.extras.xml:1120
+#: rules/base.extras.xml:1102
 msgid "Slovak (ACC layout, only accented letters)"
 msgstr "Slovacă (aranjament ACC, doar caractere cu accent)"
 
-#: rules/base.extras.xml:1126
+#: rules/base.extras.xml:1108
 msgid "Slovak (Sun Type 6/7)"
 msgstr "Slovacă (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1141
+#: rules/base.extras.xml:1123
 msgid "Spanish (Sun Type 6/7)"
 msgstr "Spaniolă (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1156
+#: rules/base.extras.xml:1138
 msgid "Swedish (Dvorak A5)"
 msgstr "Suedeză (Dvorak A5)"
 
-#: rules/base.extras.xml:1162
+#: rules/base.extras.xml:1144
 msgid "Swedish (Sun Type 6/7)"
 msgstr "Suedeză (Tipul 6/7 Sun)"
 
-#: rules/base.extras.xml:1168
+#: rules/base.extras.xml:1150
 msgid "Elfdalian (Swedish, with combining ogonek)"
 msgstr "Elfdaliană (Suedeză, cu combinarea ogonek)"
 
-#: rules/base.extras.xml:1186
+#: rules/base.extras.xml:1168
 msgid "German (Switzerland, Sun Type 6/7)"
 msgstr "Germană (Elveția, Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1192
+#: rules/base.extras.xml:1174
 msgid "French (Switzerland, Sun Type 6/7)"
 msgstr "Franceză (Elveția, Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1207
+#: rules/base.extras.xml:1189
 msgid "Turkish (Sun Type 6/7)"
 msgstr "Turcă (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1228
+#: rules/base.extras.xml:1210
 msgid "Ukrainian (Sun Type 6/7)"
 msgstr "Ucraineană (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1243
+#: rules/base.extras.xml:1225
 msgid "English (UK, Sun Type 6/7)"
 msgstr "Engleză (Marea Britanie, Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1258
+#: rules/base.extras.xml:1240
 msgid "Korean (Sun Type 6/7)"
 msgstr "Coreeană (Tip 6/7 Sun)"
 
-#: rules/base.extras.xml:1277
+#: rules/base.extras.xml:1259
 msgid "Vietnamese (AÐERTY)"
 msgstr "Vietnameză (AÐERTY)"
 
-#: rules/base.extras.xml:1283
+#: rules/base.extras.xml:1265
 msgid "Vietnamese (QĐERTY)"
 msgstr "Vietnameză (QĐERTY)"
 
 #. Keyboard indicator for European layouts
-#: rules/base.extras.xml:1292
+#: rules/base.extras.xml:1274
 msgid "eu"
 msgstr "eu"
 
-#: rules/base.extras.xml:1293
+#: rules/base.extras.xml:1275
 msgid "EurKEY (US)"
 msgstr "EurKEY (US)"
 
 #. Keyboard layouts for transcription and transliteration systems
-#: rules/base.extras.xml:1319
+#: rules/base.extras.xml:1301
 msgid "International Phonetic Alphabet"
 msgstr "Alfabet fonetic internațional"
 
-#: rules/base.extras.xml:1335
+#: rules/base.extras.xml:1317
 msgid "Modi (KaGaPa phonetic)"
 msgstr "Modi (KaGaPa fonetic)"
 
-#: rules/base.extras.xml:1344
+#: rules/base.extras.xml:1326
 msgid "sas"
 msgstr "sas"
 
-#: rules/base.extras.xml:1345
+#: rules/base.extras.xml:1327
 msgid "Sanskrit symbols"
 msgstr "Simboluri Sanscrite"
 
-#: rules/base.extras.xml:1355
-#, fuzzy
-msgid "Urdu (Navees)"
-msgstr "Urdu (Pakistan)"
-
-#: rules/base.extras.xml:1375
+#: rules/base.extras.xml:1347
 msgid "Number key 4 when pressed in isolation"
 msgstr "Tasta numerică 4 când este apăsată în izolare"
 
-#: rules/base.extras.xml:1381
+#: rules/base.extras.xml:1353
 msgid "Number key 9 when pressed in isolation"
 msgstr "Tasta numerică 9 când este apăsată în izolare"
 
-#: rules/base.extras.xml:1389
+#: rules/base.extras.xml:1361
 msgid "Parentheses position"
 msgstr "Poziția parantezelor"
 
-#: rules/base.extras.xml:1394
+#: rules/base.extras.xml:1366
 msgid "Swap with square brackets"
 msgstr "Interschimbă cu parantezele pătrate"
 
@@ -5114,24 +5017,16 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgstr "Engleză (SUA, internațională, cu taste moarte, Hyena Layer5)"
 
 #~ msgid "English (US, intl., AltGr Unicode combining, Hyena Layer5)"
-#~ msgstr ""
-#~ "Engleză (SUA, internațională, AltGr Unicode combinare, Hyena Layer5)"
+#~ msgstr "Engleză (SUA, internațională, AltGr Unicode combinare, Hyena Layer5)"
 
 #~ msgid "English (Carpalx, full optimization, Hyena Layer5)"
 #~ msgstr "Engleză (Carpalx, optimizare completă, Hyena Layer5)"
 
-#~ msgid ""
-#~ "English (Carpalx, full optimization, intl., with dead keys, Hyena Layer5)"
-#~ msgstr ""
-#~ "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte, "
-#~ "Hyena Layer5)"
+#~ msgid "English (Carpalx, full optimization, intl., with dead keys, Hyena Layer5)"
+#~ msgstr "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte, Hyena Layer5)"
 
-#~ msgid ""
-#~ "English (Carpalx, full optimization, intl., with AltGr dead keys, Hyena "
-#~ "Layer5)"
-#~ msgstr ""
-#~ "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte "
-#~ "AltGr, Hyena Layer5)"
+#~ msgid "English (Carpalx, full optimization, intl., with AltGr dead keys, Hyena Layer5)"
+#~ msgstr "Engleză (Carpalx, optimizare completă, internațională, cu taste moarte AltGr, Hyena Layer5)"
 
 #~ msgid "English (US, MiniGuru Layer5)"
 #~ msgstr "Engleză (SUA, MiniGuru Layer5)"
@@ -5140,8 +5035,7 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgstr "Engleză (SUA, internațională, cu taste moarte, MiniGuru Layer5)"
 
 #~ msgid "English (US, intl., AltGr Unicode combining, MiniGuru Layer5)"
-#~ msgstr ""
-#~ "Engleză (SUA, internațională, AltGr Unicode combinare, MiniGuru Layer5)"
+#~ msgstr "Engleză (SUA, internațională, AltGr Unicode combinare, MiniGuru Layer5)"
 
 #~ msgid "English (US, TEX Yoda Layer5)"
 #~ msgstr "Engleză (SUA, TEX Yoda Layer5)"
@@ -5150,41 +5044,31 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgstr "Engleză (SUA, internațională, cu taste moarte, TEX Yoda Layer5)"
 
 #~ msgid "English (US, intl., AltGr Unicode combining, TEX Yoda Layer5)"
-#~ msgstr ""
-#~ "Engleză (SUA, internațională, AltGr Unicode combinare, TEX Yoda Layer5)"
+#~ msgstr "Engleză (SUA, internațională, AltGr Unicode combinare, TEX Yoda Layer5)"
 
 #~ msgid "English (UK, Hyena Layer5)"
 #~ msgstr "Engleză (SUA, Hyena Layer5)"
 
 #~ msgid "English (UK, intl., with dead keys, Hyena Layer5)"
-#~ msgstr ""
-#~ "Engleză (Marea Britanie, internațională, cu taste moarte, Hyena Layer5)"
+#~ msgstr "Engleză (Marea Britanie, internațională, cu taste moarte, Hyena Layer5)"
 
 #~ msgid "English (UK, MiniGuru Layer5)"
 #~ msgstr "Engleză (Marea Britanie, MiniGuru Layer5)"
 
 #~ msgid "English (UK, intl., with dead keys, MiniGuru Layer5)"
-#~ msgstr ""
-#~ "Engleză (Marea Britanie, internațională, cu taste moarte, MiniGuru Layer5)"
+#~ msgstr "Engleză (Marea Britanie, internațională, cu taste moarte, MiniGuru Layer5)"
 
 #~ msgid "English (UK, TEX Yoda Layer5)"
 #~ msgstr "Engleză (Marea Britanie, TEX Yoda Layer5)"
 
 #~ msgid "English (UK, intl., with dead keys, TEX Yoda Layer5)"
-#~ msgstr ""
-#~ "Engleză (Marea Britanie, internațională, cu taste moarte, TEX Yoda Layer5)"
+#~ msgstr "Engleză (Marea Britanie, internațională, cu taste moarte, TEX Yoda Layer5)"
 
 #~ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
-#~ msgstr ""
-#~ "Model de tastatură de calculator cu adevărat ergonomică 227 (Taste Alt "
-#~ "late)"
+#~ msgstr "Model de tastatură de calculator cu adevărat ergonomică 227 (Taste Alt late)"
 
-#~ msgid ""
-#~ "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-#~ "additional Super and Menu key)"
-#~ msgstr ""
-#~ "Model de tastatură de calculator cu adevărat ergonomică 229 (Taste Alt cu "
-#~ "dimensiune standardizată, taste adiționale Super și Meniu)"
+#~ msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+#~ msgstr "Model de tastatură de calculator cu adevărat ergonomică 229 (Taste Alt cu dimensiune standardizată, taste adiționale Super și Meniu)"
 
 #, fuzzy
 #~| msgid "German (Austria, no dead keys)"
@@ -5440,12 +5324,8 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgid "Adding currency signs to certain keys"
 #~ msgstr "Se adaugă semne de valută la anumite taste"
 
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-#~ "together with another 5th level chooser"
-#~ msgstr ""
-#~ "&lt;Mai mic/Mai mare&gt; alege nivelul 5; acționează ca blocare "
-#~ "permanentă când este apăsat împreună cu alt selector de nivelul 5"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+#~ msgstr "&lt;Mai mic/Mai mare&gt; alege nivelul 5; acționează ca blocare permanentă când este apăsat împreună cu alt selector de nivelul 5"
 
 #~ msgid "Using space key to input non-breaking space"
 #~ msgstr "Se utilizează tasta spațiu pentru a intra spațiul fără rupere"
@@ -5460,8 +5340,7 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgstr "Se adaugă literele supra-semnate Esperanto"
 
 #~ msgid "Maintain key compatibility with old Solaris keycodes"
-#~ msgstr ""
-#~ "Menține compatibilitatea tastelor cu vechile coduri de taste Solaris"
+#~ msgstr "Menține compatibilitatea tastelor cu vechile coduri de taste Solaris"
 
 #~ msgid "Dyalog APL complete"
 #~ msgstr "Dyalog APL complet"
@@ -5493,19 +5372,11 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgid "English (US, international AltGr Unicode combining, alternative)"
 #~ msgstr "Engleză (SUA, international AltGr Unicode combinare, alternativă)"
 
-#~ msgid ""
-#~ "Arabic (with extensions for Arabic-written other languages and European "
-#~ "digits preferred)"
-#~ msgstr ""
-#~ "Arabă (cu extensii pentru alte limbi scrise în arabă și cifrele europene "
-#~ "preferat)"
+#~ msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+#~ msgstr "Arabă (cu extensii pentru alte limbi scrise în arabă și cifrele europene preferat)"
 
-#~ msgid ""
-#~ "Arabic (with extensions for Arabic-written other languages and Arabic "
-#~ "digits preferred)"
-#~ msgstr ""
-#~ "Arabă (cu extensii pentru alte limbi scrise în arabă și cifre arabe "
-#~ "preferat)"
+#~ msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+#~ msgstr "Arabă (cu extensii pentru alte limbi scrise în arabă și cifre arabe preferat)"
 
 #~ msgid "French (US, with French letters, with dead keys, alternative)"
 #~ msgstr "Franceză (SUA, cu litere franceze, cu taste moarte, alternativă)"
@@ -5519,12 +5390,8 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgstr "Rusă (fonetică)"
 
 #, fuzzy
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
-#~ "another 5th-level-chooser"
-#~ msgstr ""
-#~ "&lt;Mai mic/Mai mare&gt; alege al 5-lea nivel, încuie atunci când este "
-#~ "apăsat împreună cu un alt 5th-nivel-chooser"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser"
+#~ msgstr "&lt;Mai mic/Mai mare&gt; alege al 5-lea nivel, încuie atunci când este apăsat împreună cu un alt 5th-nivel-chooser"
 
 #~| msgid "azerty/digits"
 #~ msgid "Arabic (azerty/digits)"
@@ -5750,12 +5617,8 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgid "Non-breakable space character at fourth level"
 #~ msgstr "Caracterul spațiu indivizibil la nivelul al patrulea"
 
-#~ msgid ""
-#~ "Non-breakable space character at fourth level, thin non-breakable space "
-#~ "character at sixth level"
-#~ msgstr ""
-#~ "Caracterul spațiu indivizibil la nivelul al patrulea, caracterul spațiu "
-#~ "mic indivizibil la nivelul al șaselea"
+#~ msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+#~ msgstr "Caracterul spațiu indivizibil la nivelul al patrulea, caracterul spațiu mic indivizibil la nivelul al șaselea"
 
 #~ msgid "Numeric keypad layout selection"
 #~ msgstr "Selectare aranjament tastatură numerică"
@@ -5837,12 +5700,8 @@ msgstr "Interschimbă cu parantezele pătrate"
 #~ msgid "Urdu (alternative phonetic)"
 #~ msgstr "Urdu (fonetic alternativ)"
 
-#~ msgid ""
-#~ "Zero-width non-joiner character at second level, zero-width joiner "
-#~ "character at third level"
-#~ msgstr ""
-#~ "Caracter zero-width non-joiner la al doilea nivel, caracter zero-width "
-#~ "joiner la al treilea nivel"
+#~ msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level"
+#~ msgstr "Caracter zero-width non-joiner la al doilea nivel, caracter zero-width joiner la al treilea nivel"
 
 #~ msgid "(F)"
 #~ msgstr "(F)"
